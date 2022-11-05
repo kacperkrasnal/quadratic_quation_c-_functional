@@ -1,0 +1,15 @@
+E:\Zadania_na_dysku_d\delta_project\delta_project\bin\Debug\net6.0\delta_project.exe
+E:\Zadania_na_dysku_d\delta_project\delta_project\bin\Debug\net6.0\delta_project.deps.json
+E:\Zadania_na_dysku_d\delta_project\delta_project\bin\Debug\net6.0\delta_project.runtimeconfig.json
+E:\Zadania_na_dysku_d\delta_project\delta_project\bin\Debug\net6.0\delta_project.dll
+E:\Zadania_na_dysku_d\delta_project\delta_project\bin\Debug\net6.0\delta_project.pdb
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.csproj.AssemblyReference.cache
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.AssemblyInfoInputs.cache
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.AssemblyInfo.cs
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.csproj.CoreCompileInputs.cache
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.dll
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\refint\delta_project.dll
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.pdb
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\delta_project.genruntimeconfig.cache
+E:\Zadania_na_dysku_d\delta_project\delta_project\obj\Debug\net6.0\ref\delta_project.dll
